@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "NYU Wall",
+  "version": "1.0",
+  "description": "Random NYU campus background on new tabs",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  },
+  "web_accessible_resources": [
+    "nyu_imgs/*"
+  ]
+}
