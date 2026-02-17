@@ -24,9 +24,10 @@ Have an idea? Open an issue with the **feature request** label and describe:
 Want to add more NYU campus photos? Here's how:
 
 1. Fork the repository
-2. Add your images to the `nyu_imgs/` folder (JPEG format recommended)
-3. Update the `images` array in `newtab.js` with the new file path
-4. Submit a pull request
+2. Add your images to the `nyu_imgs/` folder (images must be in JPEG format)
+3. Rename the image file name based on the previous images. For example, if the last file name is `24.jpg`, the next file name has to be `25.jpg`
+4. Update the image count in newtab.js
+5. Submit a pull request
 
 Please ensure images are high quality and appropriate for a full-screen background.
 
