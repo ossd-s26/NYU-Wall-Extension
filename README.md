@@ -36,6 +36,7 @@ NYU-Wall-Extension/
 ## Contribution
 For contribution please refer to the [Contribution Guide](https://github.com/ossd-s26/NYU-Wall-Extension/blob/main/CONTRIBUTING.md)
 
+
 ## License
 
 This project is licensed under the [Mozilla Public License 2.0](LICENSE).
